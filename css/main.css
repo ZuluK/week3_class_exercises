@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding:0;
+}
+.nav {
+  background-color: skyblue;
+  height: 50px;
+}
+ul {
+  text-align: center;
+  padding-top: 10px;
+}
+li {
+  display: inline-block;
+  margin: 15px 10px;
+}
+a {
+  float: left;
+  color: #fff;
+  text-decoration: none;
+  font-size: 20px;
+}
+a:hover {
+ color: black;
+
+}
+
+div.button {
+  margin: 30px 5px;
+  text-align: center;
+}
+div .firstbutton {
+  border-style: none;
+}
+div .secondbutton {
+  border-style: solid;
+}
+div .thirdbutton {
+  border-style: double;
+}
